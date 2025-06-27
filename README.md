@@ -1,2 +1,2 @@
 # Profile
-I'm working on image recognition AI.
+I'm working on image recognition artificial intelligencd.
